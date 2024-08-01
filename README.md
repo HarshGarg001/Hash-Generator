@@ -28,8 +28,3 @@ Hash: 2489006e4f39f2d3f636b0374d0d958243fc8302bb3f8302ca93c114d65c3265
 
 **Use this tool responsibly.**
 
-**Optional:**
-* Provide information about the specific use cases for the hash generator.
-* Include details about the implementation of the hashing algorithms.
-* Add a license to your project.
-* Consider adding error handling for invalid inputs.
