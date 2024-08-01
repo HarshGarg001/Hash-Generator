@@ -16,7 +16,7 @@ This Python script generates hash values for given input text using various hash
 ### Example
 ```
 Enter the text: Hello, world!
-Select algorithm (MD5, SHA1, SHA224, SHA256, SHA384, SHA512): SHA256
+Select algorithm (MD5, SHA1, SHA256, SHA512): SHA256
 
 Hash: 2489006e4f39f2d3f636b0374d0d958243fc8302bb3f8302ca93c114d65c3265
 ```
